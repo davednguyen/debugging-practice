@@ -1,0 +1,4 @@
+clear button is not working
+entered three classes and grade but see nothing when click on "calculate" button 
+when click on "calculate" button, the total grade show "nan"
+look like the grade saved once but then cleared out somewhere after submitted
